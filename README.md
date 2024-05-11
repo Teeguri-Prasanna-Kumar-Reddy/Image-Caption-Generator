@@ -1,2 +1,3 @@
 # Image-Caption-Generator
-Image Caption Generator using Flickr30k_Dataset
+streamlit application 
+Image Caption Generator using Flickr30k_Dataset 
